@@ -1,1 +1,2 @@
 secondFile has been added
+changed a line
